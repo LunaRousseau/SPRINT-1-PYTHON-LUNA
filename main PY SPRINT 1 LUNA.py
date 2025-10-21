@@ -1,3 +1,6 @@
+##lUNA 564215
+
+
 def cadastrar_informacao(lista):
     titulo = input("Digite o título da informação: ")
     tipo = input("Digite o tipo da informação (educativo, cultural, lazer, etc.): ")
@@ -43,4 +46,5 @@ def main():
             print("Opção inválida. Por favor, escolha uma opção válida.")
 
 if __name__ == "__main__":
+
     main()
